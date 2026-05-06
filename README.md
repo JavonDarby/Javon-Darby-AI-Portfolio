@@ -7,6 +7,7 @@ Dedicated and forward-thinking Applied AI and Robotics student with hands-on exp
 - **Name:** Javon Darby
 - **Program:** Applied AI and Robotics
 - **Institution:** Houston Community College
+- **LinkedIn:** [https://www.linkedin.com/in/javon-darby-641328263/](https://www.linkedin.com/in/javon-darby-641328263/)
 - **GitHub:** [https://github.com/JavonDarby/Javon-Darby-AI-Portfolio]
 
 ## Technical Skills Arsenal
