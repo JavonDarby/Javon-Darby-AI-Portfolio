@@ -246,17 +246,25 @@
                 background-color: var(--bg-color) !important;
                 -webkit-print-color-adjust: exact !important;
                 color-adjust: exact !important;
-                height: 100% !important;
+                height: auto !important;
+                overflow: visible !important;
+                position: static !important;
             }
-            .presentation { overflow: visible !important; }
+            .presentation { 
+                height: auto !important; 
+                overflow: visible !important; 
+                display: block !important;
+            }
             .slide {
-                height: 100vh !important;
-                page-break-after: always;
-                page-break-inside: avoid;
+                height: 9in !important;
+                width: 16in !important;
+                page-break-after: always !important;
+                page-break-inside: avoid !important;
                 padding: 4rem;
                 display: flex;
                 align-items: center;
                 justify-content: center;
+                position: relative !important;
             }
             .slide-content { transform: none !important; break-inside: avoid; page-break-inside: avoid; }
             h1 { -webkit-background-clip: text !important; color: transparent !important; }
